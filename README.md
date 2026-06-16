@@ -2,7 +2,7 @@
 A real‑time, no‑save‑required CSAT feedback popup configurator.
 Configure content and styling on the left, see changes instantly on a mobile preview on the right.
 
-https://via.placeholder.com/800x400?text=CSAT+Campaign+Builder+Demo
+
 1. Content Page
 
    <img width="1535" height="916" alt="csat page 1" src="https://github.com/user-attachments/assets/d5942479-92bb-4892-a48a-464b97604225" />
